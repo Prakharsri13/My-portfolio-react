@@ -108,7 +108,7 @@ const Footer = () => {
                         href="/"
                         className="bg-white rounded-md p-1 logo reveal-up">
                         <img
-                            src="/public/images/prakharlogo.png"
+                            src="/images/prakharlogo.png"
                             width={30}
                             height={30}
                             alt="Logo" />
