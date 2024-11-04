@@ -11,7 +11,7 @@ const ReviewCard = ({
 
 }) => {
     return (
-        <div className="bg-zinc-800 p-5 rounded-xl min-w-[320px] flex flex-col lg:min-w-[220px] space-y-4"
+        <div className="bg-zinc-800 p-5 rounded-xl min-w-[320px] flex flex-col lg:min-w-[220px] space-y-4 reveal-up"
         >
             <div className="flex items-center gap-1 mb-3">
                 {rating.map(({ icon, style }, key) => (

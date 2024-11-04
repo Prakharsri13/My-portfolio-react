@@ -106,9 +106,9 @@ const Footer = () => {
                 <div className="flex items-center justify-between pt-10 mb-8">
                     <a
                         href="/"
-                        className=" bg-white rounded-md p-1 logo reveal-up">
+                        className="bg-white rounded-md p-1 logo reveal-up">
                         <img
-                            src="/public/images/prakhar-logo.svg"
+                            src="/public/images/My-logo.svg"
                             width={30}
                             height={30}
                             alt="Logo" />

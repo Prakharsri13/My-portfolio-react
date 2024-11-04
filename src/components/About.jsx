@@ -40,7 +40,7 @@ const About = () => {
                             ))
                         }
                         <img
-                            src="/public/images/prakhar-logo.svg"
+                            src="/public/images/My-logo.svg"
                             alt="Logo"
                             width={30}
                             height={30}
