@@ -47,7 +47,7 @@ const Work = () => {
                 <h2 className="headline-2 mb-8 reveal-up">
                     My portfolio highlights
                 </h2>
-                <div className="reveal-up grid gap-4 gap-y-5 grid-cols-[repeat(auto-fill,_minmax(280px,_1fr))]">
+                <div className="grid gap-4 gap-y-5 grid-cols-[repeat(auto-fill,_minmax(280px,_1fr))]">
                     {works.map((work, index) => (
                         <ProjectCard
                             key={index}
