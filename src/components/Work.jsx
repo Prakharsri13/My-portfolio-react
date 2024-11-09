@@ -36,7 +36,7 @@ const works = [
         imgSrc: '/images/portfolio.png',
         title: 'Portfolio',
         tags: ['React', 'Development'],
-        projectLink: 'https://github.com/codewithsadee/vcard-personal-portfolio'
+        projectLink: 'https://prakharsri05.vercel.app'
     },
 ];
 
